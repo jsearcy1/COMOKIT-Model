@@ -11,6 +11,10 @@ import "../Abstract Experiment.gaml"
 
 global {
 	
+	string case_study_folder_name <- "Beyrouth";
+	//string case_study_folder_name <- "Al_Zaatari_Shelters";
+	string dataset_folder_path <- "../../Datasets";
+	
 	action define_policy{   
 		ask Authority {
 				policy <- create_hospitalisation_policy(true, true,2);
