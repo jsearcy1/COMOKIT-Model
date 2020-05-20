@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;COMOKIT/Datasets/Al_Zaatari_Shelters&apos;" deleteContents="false" description="Delete resource &apos;COMOKIT/Datasets/Al_Zaatari_Shelters&apos;" element1="/COMOKIT/Datasets/Al_Zaatari_Shelters" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1589991727357"/>
+</session>
